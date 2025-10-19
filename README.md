@@ -3,13 +3,18 @@
 
 **Situation**
 
-s
+s  
+
 **Task**
 
-t
+t  
+
 **Action**
 
-a
+a  
+
 **Result**
 
-r
+r  
+
+
