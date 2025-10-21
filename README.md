@@ -3,7 +3,7 @@
 <img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/0b201f08-bfb0-4c01-8dde-63e71274600c" />  
 <br/>
 sample image    
-<br/>
+<br/><br/><br/>
 
 **Situation**
 From Fraudwatch phishing takedowns, it appears some threat actors cloned the banking login page and hosted the on newly created domains to target bank customers in order to obtain banking credentials.
