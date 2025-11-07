@@ -12,7 +12,7 @@ Canary tokens are deceptive digital assets, like embedded files or API keys, tha
 
 
 **Situation**
-From Fraudwatch phishing takedowns, it appears some threat actors cloned the banking login page and hosted the on newly created domains to target bank customers in order to obtain banking credentials.
+From Fraudwatch/Netcraft phishing takedowns, it appears some threat actors cloned the banking login page and hosted the on newly created domains to target bank customers in order to obtain banking credentials.
 Current Phishtank detections does not appear high-fidelity as it merely uses the regex to match the bank name's string, which resulted in many entries that were not even related to the bank, let alone phishing.
 
 **Task**
