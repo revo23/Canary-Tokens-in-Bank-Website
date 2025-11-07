@@ -19,9 +19,9 @@ Current Phishtank detections does not appear high-fidelity as it merely uses the
 As the SOC Analyst on the frontlines doing phishing login page takedowns, I was the most familiar with the situation of a constant phishing domains and looked to reduce the impact of such actions by threat actors whilst enhancing detections.
 
 **Action**
-Did a Proof-of-concept (PoC) on a local machine by deploying an obfuscated 'Cloned website Canarytoken' within the JavaScript of copied website (via HTTrack - a website copier), to see where the attack originated from (source IP) and gain greater visibility into the attackers and any other possible accompanying phishing domains (from Virustotal > relations > passive DNS replication).
+Did a Proof-of-concept (PoC) on a local machine by deploying an obfuscated 'Cloned website Canarytoken' within the JavaScript of copied website (via HTTrack - a website copier), to see where the attack originated from (source IP) and gain greater visibility into the attackers and any other possible accompanying phishing domains (from Virustotal > relations > passive DNS replication) that the same threat actor created - for proactive takedowns.
 
 **Result**
-Althought bank regulatory requirements prevent the implementation of Canary Tokens onto existing live bank login pages, this exercise was useful in understanding threat actor procedures/process of crafting phishing pages.
+Althought bank regulatory requirements prevent the implementation of Canary Tokens onto existing live bank login pages, this exercise was useful in understanding threat actor procedures/process of crafting phishing pages and how we can proactively look for new phishing websites or catch ones that the vendors missed.
 
 
