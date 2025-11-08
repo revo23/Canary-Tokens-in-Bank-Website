@@ -8,7 +8,7 @@
 <br/><br/><br/>
 
 
-Canary tokens are deceptive digital assets, like embedded files or API keys, that act as tripwires to alert you when an attacker accesses them. When an attacker interacts with the token, it triggers an automatic notification, providing valuable information about the intruder, such as their IP address and the time of access. This allows defenders to instantly become aware of a potential breach and gather data to thwart further attacks. 
+Canary tokens are deceptive digital assets that act as tripwires to alert you when an attacker accesses them. When an attacker interacts with the token, it triggers an automatic notification, providing valuable information about the intruder, such as their IP address and the time of access. This allows defenders to instantly become aware of a potential breach and gather data to thwart further attacks. 
 
 
 **Situation**
