@@ -22,6 +22,6 @@ As the SOC Analyst on the frontlines doing phishing login page takedowns, I was 
 Did a Proof-of-concept (PoC) on a local machine by deploying an obfuscated 'Cloned website Canarytoken' within the JavaScript of copied website (via HTTrack - a website copier), to see where the attack originated from (source IP) and gain greater visibility into the attackers and any other possible accompanying phishing domains (from Virustotal > relations > passive DNS replication) that the same threat actor created in order to do proactive takedowns.
 
 **Result**
-Althought bank regulatory requirements prevent the implementation of Canary Tokens onto existing live bank login pages, this exercise was useful in understanding threat actor procedures/process of crafting phishing pages and how we can proactively look for new phishing websites or catch ones that the vendors missed.
+Althought banking regulatory requirements prevent the implementation of Canary Tokens onto existing live bank login pages, this exercise was useful in understanding threat actor procedures/process of crafting phishing pages and how we can proactively look for new phishing websites or catch ones that the vendors missed.
 
 
